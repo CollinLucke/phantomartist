@@ -1,7 +1,9 @@
 # PhantomArtist 👻🎨
+ ~A modern, flexible React component library built with TypeScript and Emotion CSS. PhantomArtist provides a collection of highly customizable UI components designed for building beautiful, responsive web applications.~
 
-A modern, flexible React component library built with TypeScript and Emotion CSS. PhantomArtist provides a collection of highly customizable UI components designed for building beautiful, responsive web applications.
+## This was a fun experiment, but I did a lot of really weird stuff here, so I'm going back to the drawing board with something far more... more
 
+<!--
 ## ✨ Features
 
 - 🎯 **TypeScript First** - Full TypeScript support with comprehensive type definitions
@@ -74,3 +76,4 @@ MIT License - see the [LICENSE](LICENSE) file for details.
 ---
 
 <sub>_Yes, it does look like "Philanthropist" at first glance, and that's perfectly fine! 😄_</sub>
+-->
